@@ -1,5 +1,6 @@
 {
   "name": "cont",
+  "private": true,
   "version": "0.1.0",
   "description": "Contabil",
   "repository": "https://github.com/castro150/cont",
