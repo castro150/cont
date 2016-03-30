@@ -1,9 +1,9 @@
 {
-  "name": "cont",
+  "name": "simple-docfy",
   "private": true,
   "version": "0.1.0",
-  "description": "Contabil",
-  "repository": "https://github.com/castro150/cont",
+  "description": "Simple-Docfy",
+  "repository": "https://github.com/castro150/simple-docfy",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-contrib-jshint": "^0.11.3",
